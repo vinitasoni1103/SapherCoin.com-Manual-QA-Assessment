@@ -28,12 +28,11 @@ SapherCoin is a blockchain-based crypto wallet application. This repository cont
  
 ## 📁 Repository Structure
  
-```
-saphercoin-qa-assessment/
-├── README.md
-├── Test_Cases.xlsx         # 40 structured test cases across 4 modules
-├── Bug_Report.xlsx         # 14 bugs with severity, steps, expected vs actual
-└── screenshots/            # Evidence for reported bugs
+| File | Description | Link |
+|---|---|---|
+| `README.md` | Project overview and findings summary | — |
+| `Test_Cases.xlsx` | 40 structured test cases across 4 modules | [View on Google Sheets][(#YOUR-TEST-CASES-GOOGLE-SHEET-LINK)](https://docs.google.com/spreadsheets/d/1atrm8JNFFBidKaq3SJKZWSgt0KU4Phib1j3KBuyGVGU/edit?gid=73569990#gid=73569990) |
+| `Bug_Report.xlsx` | 14 bugs with severity, steps, expected vs actual | [View on Google Sheets][(#YOUR-BUG-REPORT-GOOGLE-SHEET-LINK)](https://docs.google.com/spreadsheets/d/1o-XqQBIeKvkq0GDtLJCkXhkyiD2tn6868hK_ao2eOag/edit?gid=0#gid=0) |
 ```
  
 ---

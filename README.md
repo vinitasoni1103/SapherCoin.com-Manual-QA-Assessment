@@ -1,0 +1,1 @@
+# SapherCoin.com-Manual-QA-Assessment

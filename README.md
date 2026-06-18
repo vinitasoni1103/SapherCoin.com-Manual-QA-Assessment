@@ -86,7 +86,6 @@ Test cases include: Test ID, Preconditions, Step-by-step instructions, Expected 
 |---|---|
 | Browser DevTools | Console error inspection, network tab analysis |
 | Microsoft Edge / Chrome | Cross-browser testing |
-| Postman | API behaviour observation |
 | Excel / Google Sheets | Test case and bug report documentation |
  
 ---
